@@ -1,0 +1,1 @@
+import SzperaczexTimer as timer
