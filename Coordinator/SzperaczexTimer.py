@@ -5,6 +5,3 @@ class SzperaczexTimer:
     def Tick():
             time.sleep(500)
             return True
-            
-            
-    
